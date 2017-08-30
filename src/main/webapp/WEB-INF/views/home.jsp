@@ -9,7 +9,7 @@
 <body>
 <h1>
 	Hello world!
-    Cocktail Goods~~~ version 2
+    Cocktail Goods~~~ version 3
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
