@@ -9,7 +9,7 @@
 <body>
 <h1>
 	Bring Your Own Cloud !
-	Cocktail Cloud
+	Cocktail Cloud 1
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
