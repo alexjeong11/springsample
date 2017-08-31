@@ -8,8 +8,8 @@
 </head>
 <body>
 <h1>
-	Hello world!
-    Cocktail Goods~~~ version 3
+	Bring Your Own Cloud !
+	Cocktail Cloud
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
